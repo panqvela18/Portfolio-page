@@ -1,0 +1,22 @@
+li {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  color: #fb2056;
+  margin-right: 10px;
+}
+
+li span {
+  font-family: "Roboto";
+}
+
+.line {
+  width: 100%;
+  border: 1px solid #fb2056;
+  margin: 5px 0;
+}

@@ -1,0 +1,42 @@
+.topPhoto {
+  width: 100%;
+  margin-top: 67px;
+  height: 700px;
+  object-fit: cover;
+}
+
+.topPhotoDiv {
+  position: relative;
+}
+
+.topPhotoText {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  width: 100%;
+}
+
+.test-background {
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: none;
+}
+
+@media (min-width: 1008px) {
+  .topPhoto {
+    height: calc(100vh - 67px);
+  }
+  .topPhotoDiv {
+    display: none;
+  }
+  .test-background {
+    display: block;
+  }
+}

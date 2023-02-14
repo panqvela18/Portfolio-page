@@ -1,0 +1,25 @@
+.title {
+  padding: 20px;
+  text-align: center;
+}
+
+.hello {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.text-content {
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.hello span {
+  color: #fb2056;
+}
+
+@media (min-width: 1008px) {
+  .title {
+    width: 50%;
+  }
+}
