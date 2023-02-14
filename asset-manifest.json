@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-page/static/css/main.f557dac5.css",
-    "main.js": "/Portfolio-page/static/js/main.ca15470d.js",
+    "main.css": "/Portfolio-page/static/css/main.79ebf145.css",
+    "main.js": "/Portfolio-page/static/js/main.e2b76cc5.js",
     "static/media/exdpanding.png": "/Portfolio-page/static/media/exdpanding.75a7af9b38912a0002bc.png",
     "static/media/rotating.png": "/Portfolio-page/static/media/rotating.c1bfd712889979a4d687.png",
     "static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg": "/Portfolio-page/static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.2664418daddb1a370d91.jpg",
@@ -14,11 +14,11 @@
     "static/media/wave.png": "/Portfolio-page/static/media/wave.b7f88b885977f3b99128.png",
     "static/media/fylo.png": "/Portfolio-page/static/media/fylo.90843d078de5761f6711.png",
     "index.html": "/Portfolio-page/index.html",
-    "main.f557dac5.css.map": "/Portfolio-page/static/css/main.f557dac5.css.map",
-    "main.ca15470d.js.map": "/Portfolio-page/static/js/main.ca15470d.js.map"
+    "main.79ebf145.css.map": "/Portfolio-page/static/css/main.79ebf145.css.map",
+    "main.e2b76cc5.js.map": "/Portfolio-page/static/js/main.e2b76cc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.f557dac5.css",
-    "static/js/main.ca15470d.js"
+    "static/css/main.79ebf145.css",
+    "static/js/main.e2b76cc5.js"
   ]
 }
