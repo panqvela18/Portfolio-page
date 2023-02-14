@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio-page/static/css/main.26128bec.css",
+    "main.js": "/Portfolio-page/static/js/main.ca15470d.js",
+    "static/media/exdpanding.png": "/Portfolio-page/static/media/exdpanding.75a7af9b38912a0002bc.png",
+    "static/media/rotating.png": "/Portfolio-page/static/media/rotating.c1bfd712889979a4d687.png",
+    "static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg": "/Portfolio-page/static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.2664418daddb1a370d91.jpg",
+    "static/media/typemaster.png": "/Portfolio-page/static/media/typemaster.c69fc97a2ffd79c91dc2.png",
+    "static/media/equalizer.png": "/Portfolio-page/static/media/equalizer.815e59c000ebeb64360e.png",
+    "static/media/four-card.png": "/Portfolio-page/static/media/four-card.6ef8694b6049923b5625.png",
+    "static/media/laptop_code_programming_212332_1440x900.jpg": "/Portfolio-page/static/media/laptop_code_programming_212332_1440x900.02d233ede2102a308eb3.jpg",
+    "static/media/calc.png": "/Portfolio-page/static/media/calc.90093d323709a6a9e76f.png",
+    "static/media/Screenshot 2023-02-11 202210.png": "/Portfolio-page/static/media/Screenshot 2023-02-11 202210.5ab363184e4cc1d6e394.png",
+    "static/media/wave.png": "/Portfolio-page/static/media/wave.b7f88b885977f3b99128.png",
+    "static/media/fylo.png": "/Portfolio-page/static/media/fylo.90843d078de5761f6711.png",
+    "index.html": "/Portfolio-page/index.html",
+    "main.26128bec.css.map": "/Portfolio-page/static/css/main.26128bec.css.map",
+    "main.ca15470d.js.map": "/Portfolio-page/static/js/main.ca15470d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26128bec.css",
+    "static/js/main.ca15470d.js"
+  ]
+}
