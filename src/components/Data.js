@@ -7,64 +7,71 @@ import equalizer from "../images/equalizer.png";
 import rotating from "../images/rotating.png";
 import expanding from "../images/exdpanding.png";
 import waveform from "../images/wave.png";
+import github from "../images/fabpot.png";
 
 export const projectData = [
   {
     id: 1,
+    title: "Search-Github-User",
+    img: github,
+    link: "https://panqvela18.github.io/search-github-users/",
+  },
+  {
+    id: 2,
     title: "Tip-Calculator",
     img: CalculatorImage,
     link: "https://panqvela18.github.io/Tip-Calculator-App/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Fylo landing page",
     img: Fyloland,
     link: "https://panqvela18.github.io/Fylo-landing-page-with-two-column-layout/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Art Gallery",
     img: art,
     link: "https://panqvela18.github.io/Art-Gallery-Website/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Four-card-feature-section",
     img: fourCards,
     link: "https://panqvela18.github.io/Four-card-feature-section/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Typemaster-Keyboard-Page",
     img: Typemaster,
     link: "https://panqvela18.github.io/Typemaster-Keyboard-Page/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Equalizer-landing-page",
     img: equalizer,
     link: "https://panqvela18.github.io/Equalizer-landing-page/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Skilled-e-learning-page",
     img: equalizer,
     link: "https://panqvela18.github.io/Skilled-e-learning-landing-page/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Rotating-Navigation",
     img: rotating,
     link: "https://panqvela18.github.io/Rotating-Navigation/",
   },
   {
-    id: 9,
+    id: 10,
     title: "expanding-cards",
     img: expanding,
     link: "https://panqvela18.github.io/expanding-cards/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Form-input-Wave",
     img: waveform,
     link: "https://panqvela18.github.io/Form-input-Wave/",

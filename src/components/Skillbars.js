@@ -9,11 +9,12 @@ export default function Skillbars() {
         <h2 className="skills-title">My Skills</h2>
         <Skillbox name="HTML" />
         <Skillbox name="CSS" />
-        <Skillbox name="Bootstrap" />
-        <Skillbox name="Tailwind" />
+        <Skillbox name="Git/Github" />
         <Skillbox name="Javascript" />
         <Skillbox name="React" />
         <Skillbox name="Angular" />
+        <Skillbox name="Bootstrap" />
+        <Skillbox name="Tailwind" />
       </div>
     </section>
   );

@@ -6,7 +6,7 @@ import Typical from "react-typical";
 export default forwardRef(function Aboutme({}, ref) {
   return (
     <div
-      className="title  hidden-left"
+      className="title hidden-left"
       ref={ref}
       style={{ scrollMargin: "68px" }}
     >

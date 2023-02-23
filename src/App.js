@@ -2,6 +2,7 @@ import Header from "./components/header/Header";
 import Aboutme from "./components/Aboutme";
 import { useEffect, useRef } from "react";
 import "./App.css";
+import "./index.css";
 import Skillbars from "./components/Skillbars";
 import topPhoto from "./images/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg";
 import Photowithtext from "./components/Photowithtext";
@@ -48,10 +49,10 @@ function App() {
         <Header handlers={handlers} />
         <Photowithtext
           image={topPhoto}
-          headline="Irakli Pankvelashvili"
+          headline="Irakli Pankvelashvili "
           subtext="Portfolio"
         />
-        <section ref={aboutMeRef} className="fullscreen-aboutMe">
+        <section ref={aboutMeRef} className="fullscreen-aboutMe ">
           <Aboutme />
           <Skillbars />
         </section>
@@ -62,6 +63,7 @@ function App() {
         />
         <ProjectsSlider ref={projectRef} />
         <Contact ref={ContactRef} />
+
         <Footer />
       </>
     </div>

@@ -4,5 +4,8 @@
   box-sizing: border-box;
   font-family: "Roboto";
 }
+body {
+  overflow-x: hidden;
+}
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&family=Roboto:wght@300;400;500;700;900&display=swap");

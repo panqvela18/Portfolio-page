@@ -37,12 +37,14 @@
     opacity: 0;
     transform: translateX(-100%);
     transition: all 1.5s;
+    overflow: hidden;
   }
 
   .hidden-right {
     opacity: 0;
     transform: translateX(100%);
     transition: all 1.5s;
+    overflow: hidden;
   }
 
   .show {
