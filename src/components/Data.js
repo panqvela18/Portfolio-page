@@ -8,8 +8,28 @@ import rotating from "../images/rotating.png";
 import expanding from "../images/exdpanding.png";
 import waveform from "../images/wave.png";
 import github from "../images/fabpot.png";
-
+import planet from "../images/planet.png";
+import todo from "../images/todo-app.png";
+import rating from "../images/rating.png";
 export const projectData = [
+  {
+    id: 12,
+    title: "Planet-facts",
+    img: planet,
+    link: "https://panqvela18.github.io/todo-app/",
+  },
+  {
+    id: 13,
+    title: "Todo-app",
+    img: todo,
+    link: "https://panqvela18.github.io/mercury/overview",
+  },
+  {
+    id: 14,
+    title: "Interactive-rating",
+    img: rating,
+    link: "https://panqvela18.github.io/interactive-rating/",
+  },
   {
     id: 1,
     title: "Search-Github-User",
@@ -20,7 +40,7 @@ export const projectData = [
     id: 2,
     title: "Tip-Calculator",
     img: CalculatorImage,
-    link: "https://panqvela18.github.io/Tip-Calculator-App/",
+    link: "https://panqvela18.github.io/tip-calculator-react/",
   },
   {
     id: 3,
